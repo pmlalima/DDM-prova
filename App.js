@@ -1,9 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import Pamela from './SRC/componets/pamela/main';
-import Ysabelli from './SRC/componets/ysabelli';
-
-
+import Pamela from './SRC/componets/Pamela/main';
+import Ysabelli from './SRC/componets/Ysabelli';
 
 export default function App() {
   return (
